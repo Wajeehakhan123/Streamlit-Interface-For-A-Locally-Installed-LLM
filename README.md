@@ -13,6 +13,7 @@ A local AI chat interface built with Streamlit that connects to a TinyLlama mode
 
 ## 🖼 Screenshot
 <img width="1902" height="900" alt="Screenshot 2026-02-15 215908" src="https://github.com/user-attachments/assets/65bc68ab-1137-4c08-a0c8-529673ced6d6" />
+<img width="1900" height="883" alt="6" src="https://github.com/user-attachments/assets/c86ef901-9535-465c-8755-b63cbeab5440" />
 
 
 ## 🛠 Tools & Technologies
